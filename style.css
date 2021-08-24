@@ -1,0 +1,32 @@
+body {
+	background-color: #521137;
+}
+
+#Encabezado {
+	font-family: 'Roboto', monospace;
+	background-color: #67ffd9;
+	margin: auto;
+	max-width: 700px;
+	border-radius: 5px;
+	flex: auto;
+}
+
+h1 {
+	color: #166688;
+	text-align: center;
+	flex: auto;
+}
+h2 {
+	color: #166688;
+	text-align: center;
+	flex: auto;
+}
+
+#Info {
+	font-family: 'Roboto', monospace;
+	background-color: #ff67e6;
+	color: #881625;
+	margin: auto;
+	max-width: 700px;
+	border-radius: 5px;
+}
